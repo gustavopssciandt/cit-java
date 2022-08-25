@@ -13,6 +13,9 @@ Além disso, a conta deve fazer as seguintes ações:
 - <i>sacar</i> para retirar um valor do saldo. Recebe um valor como	parâmetro e	o retira do	saldo da conta;<br/>
 - <i>depositar</i> a fim de adicionar um valor ao saldo. Recebe	um valor como parâmetro e o	adiciona ao	saldo da conta;
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 1.1) Agora acrescente ao projeto duas classes herdadas de ContaBancaria: ContaPoupanca e ContaEspecial.
 
 Na Classe ContaPoupanca deve conter o dia de rendimento (int) e o método calcularNovoSaldo() que recebe a taxa de rendimento da poupança e atualiza o saldo.
